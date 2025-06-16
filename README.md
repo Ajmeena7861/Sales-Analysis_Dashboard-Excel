@@ -44,7 +44,7 @@ This project is useful for small businesses or students looking to understand:
 Feel free to fork, clone, or connect with me for feedback and improvements!
 
 **Author:** Ajmeena Sheikh  
-
+**LinkedIn:** www.linkedin.com/in/ajmeena-sheikh250903
 
 ### 📜 License
 
